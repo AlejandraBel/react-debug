@@ -23,24 +23,34 @@ const Main = () => {
         </video>
       </section>
       <section className="extern-links-section">
-        <ul>
+        <ul >
           <li>
             <a href="/">
-              <img className="extern-links-section__img"src="	http://cine.ar/img/tv.cine.ar.svg" alt="icono" />
+              <img
+                className="extern-links-section__img"
+                src="	http://cine.ar/img/tv.cine.ar.svg"
+                alt="icono"
+              />
             </a>
           </li>
-        </ul>
-        <ul>
+
           <li>
             <a href="/">
-              <img className="extern-links-section__img" src="	http://cine.ar/img/play.cine.ar.svg" alt="icono" />
+              <img
+                className="extern-links-section__img"
+                src="	http://cine.ar/img/play.cine.ar.svg"
+                alt="icono"
+              />
             </a>
           </li>
-        </ul>
-        <ul>
+
           <li>
             <a href="/">
-              <img className="extern-links-section__img" src="http://cine.ar/img/estrenos.cine.ar.svg" alt="icono" />
+              <img
+                className="extern-links-section__img"
+                src="http://cine.ar/img/estrenos.cine.ar.svg"
+                alt="icono"
+              />
             </a>
           </li>
         </ul>
